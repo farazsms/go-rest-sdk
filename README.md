@@ -1,6 +1,6 @@
-# IPPANEL SMS api SDK
+# FarazSMS api SDK
 
-This repository contains open source Go client for `ippanel` api. Documentation can be found at: <http://docs.ippanel.com>.
+This repository contains open source Go client for `ippanel` api. Documentation can be found at: <https://farazsms.com/webservice/>.
 
 [![Build Status](https://travis-ci.org/ippanel/go-rest-sdk.svg?branch=master)](https://travis-ci.org/ippanel/go-rest-sdk) [![GoDoc](https://godoc.org/github.com/ippanel/go-rest-sdk?status.svg)](https://godoc.org/github.com/ippanel/go-rest-sdk)
 
