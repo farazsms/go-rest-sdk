@@ -9,12 +9,12 @@ This repository contains open source Go client for `ippanel` api. Documentation 
 If you are using go modules, just install it with `go mod install` or `go build .`, Otherwise you can use `go get ./...`
 
 ```bash
-go get github.com/ippanel/go-rest-sdk
+go get github.com/farazsms/go-rest-sdk
 ```
 
 ## Examples
 
-After installing ippanel sdk with above methods, you can import it in your project like this:
+After installing farazsms sdk with above methods, you can import it in your project like this:
 
 ```go
 import "github.com/ippanel/go-rest-sdk"
